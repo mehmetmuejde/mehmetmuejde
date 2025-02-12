@@ -3,7 +3,7 @@
 - 🏗️ I build full-stack applications, AI-powered tools, and scalable cloud solutions
 - 🎓 Studied **Mechatronics** and **Computer Science**, currently pursuing **Data Science (M.Sc.)** at RWTH Aachen
 - 🤖 Passion for **Machine Learning and AI-driven applications**
-- ![FlowCV](https://flowcv.com/resume/hwum3d0cjd)
+- [FlowCV](https://flowcv.com/resume/hwum3d0cjd)
 
 ### **🚀 Tech Stack**
 
