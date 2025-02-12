@@ -5,9 +5,15 @@
 - 🔧 My tech stack includes:  
 
 ### **🚀 Tech Stack**  
+
 **Frontend:**  
-![React](https://skillicons.dev/icons?i=react) ![Vue.js](https://skillicons.dev/icons?i=vue) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)  
-![Material UI](https://skillicons.dev/icons?i=materialui) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![GraphQL](https://skillicons.dev/icons?i=graphql)  
+
+![React](https://skillicons.dev/icons?i=react) 
+![Vue.js](https://skillicons.dev/icons?i=vue) 
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)  
+![Material UI](https://skillicons.dev/icons?i=materialui) 
+![TailwindCSS](https://skillicons.dev/icons?i=tailwind) 
+![GraphQL](https://skillicons.dev/icons?i=graphql)  
 
 **Backend:**  
 ![Django](https://skillicons.dev/icons?i=django) ![Flask](https://skillicons.dev/icons?i=flask) ![FastAPI](https://skillicons.dev/icons?i=fastapi)  
