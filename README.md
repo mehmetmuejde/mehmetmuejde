@@ -25,15 +25,6 @@
 ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C](https://skillicons.dev/icons?i=c)  
 ![Kotlin](https://skillicons.dev/icons?i=kotlin) ![Swift](https://skillicons.dev/icons?i=swift) ![Mojo](https://skillicons.dev/icons?i=mojo)  
 
-### **📌 Featured Projects**  
-- **[myOTEC App](https://www.otec.de/)** – A customer portal & webshop built with Django and React  
-- **[Scanbox Dashboard](https://www.kbst-gmbh.de/)** – A management system for smart shopping carts  
-- **[Annotly](https://annotly.com)** – A B2B marketplace for AI data annotation  
-- **[Gransbe](https://www.softmindz.de/)** – A freelancer job management app  
-
-### **📄 Publications**  
-📖 [Systematic Evaluation of Uncertainty Calibration in Pretrained Object Detectors](https://link.springer.com/article/10.1007/s11263-024-02219-z)  
-
 ### **📫 Get in Touch**  
 📧 freelancer@mehmetmuejde.com  
 🌍 [mehmetmuejde.com](https://www.mehmetmuejde.com/)  
