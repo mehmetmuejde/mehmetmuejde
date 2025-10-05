@@ -32,5 +32,5 @@
 ### **📫 Get in Touch**
 
 📧 freelancer@mehmetmuejde.com  
-🌍 [mehmetmuejde.com](https://www.mehmetmuejde.com/)  
+🌍 [mehmetmuejde.com](https://www.mehmetmuejde.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/mehmetmuejde)
