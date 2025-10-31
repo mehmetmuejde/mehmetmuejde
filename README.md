@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpg" alt="Mehmet Müjde Logo" width="400" />
+  <img src="logo.png" alt="Mehmet Müjde Logo" width="400" />
 </p>
 
 <h1 align="center">Hi, I’m Mehmet Müjde (@mmuejde) 👋</h1>
