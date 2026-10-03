@@ -2,7 +2,7 @@
   <img src="logo.png" alt="Mehmet Müjde Logo" width="400" />
 </p>
 
-<h1 align="center">Hi, I’m Mehmet Müjde (@mmuejde) 👋</h1>
+<h1 align="center">Hi, I’m Mehmet Müjde (@mehmetmuejde) 👋</h1>
 
 <p align="center">
   Senior Full Stack Developer (Freelancer)
@@ -24,7 +24,7 @@
 
 ### 📫 Let's Connect
 
-- 🌐 Website: [mehmetmuejde.com](https://www.mehmetmuejde.com)  
+- 🌐 Website: [www.mehmetmuejde.com](https://www.mehmetmuejde.com)  
 - 📧 Email: [freelancer@mehmetmuejde.com](mailto:freelancer@mehmetmuejde.com)  
 - 💼 LinkedIn: [linkedin.com/in/mehmetmuejde](https://www.linkedin.com/in/mehmetmuejde)
 
