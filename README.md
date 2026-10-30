@@ -2,10 +2,6 @@
   <img src="banner.png" alt="Mehmet Müjde Logo" width="100%" />
 </p>
 
-<p align="center">
-  <img src="logo.png" alt="Portrait of Mehmet Müjde" width="240" />
-</p>
-
 <h1 align="center">Hi, I’m Mehmet Müjde (@mehmetmuejde) 👋</h1>
 
 <p align="center">
