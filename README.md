@@ -20,7 +20,7 @@
 
 - 👨‍💻 For more than 15 years, I have been building **web, mobile and desktop applications** as a **senior full-stack developer** – from requirements analysis through architecture and development to operations and handover
 - 🛠️ My technical home is **Python**, **TypeScript** and **Rust**, with **React** in the frontend and **FastAPI** in the backend
-- 🤖 As an AI engineer, I build **agentic systems** and **AI agents** and drive **agentic software development** with AI-assisted code and security reviews
+- ⚙️ As an AI engineer, I build **agentic systems** and **AI agents** and drive **agentic software development** with AI-assisted code and security reviews
 - 🤝 My clients include **DEUTZ AG**, **ENERCON GmbH** and **dmTECH GmbH (dmGPT)** – I work remotely, on my own or in interdisciplinary teams
 - 🎓 Studied **Mechatronics** & **Computer Science** · Currently pursuing a part-time **M.Sc. in Data Science @ RWTH Aachen University**
 - 🏍️ Away from the keyboard, I love riding motorcycles – my bike is a **2026 Harley-Davidson Breakout**
